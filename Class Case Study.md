@@ -8,7 +8,7 @@ Major competitors would include existing companies in the invoicing space includ
 
 # TECHNOLOGY USE
 How does this company use technology to their advantage? Why are they considered a FinTech company?
-Penicl uses integration with major accounting, inventory and credit platofrms to enable a single system for managing a businesses invoicing and inventory needs in one place.
+Penicl uses integration with major accounting, inventory and credit platofrms to enable a single system for managing a businesses invoicing and inventory needs in one place. They also used mashine learning technology to access to companies payment histories.
 
 # STRENGTHS
 Their platform is simple and easy to use with integrations across a number of systems that makes B2B (business to business) engagement easier and less time consuming. It also helps businesses keep track of their cashflow through tighter invoice/payment management. 
