@@ -40,7 +40,7 @@ MAJOR TRENDS AND INNOVATIONS IN REGTECH
 
 MAJOR COMPETITORS
 - FrankieOne's major competitors are:
-    - X
+    - Xx
 ---
 ## RESULTS
 ---
