@@ -25,7 +25,8 @@ COMPANY SOLUTION
 
 TECHNOLOGIES CURRENTLY USED
 - Technologies currently used include:
-    - Biometric scanning
+    - Biometric scanning (Artifical Intelligence)
+    - Machine learning
     - cloud computing storage.
 ---
 ## LANDSCAPE
@@ -49,9 +50,16 @@ BUSINESS IMPACT
 
 MEASURES OF SUCCESS
 - Companies in the EIDV space use pass rates as metrics for success.
-- FrankieOne has 
+- FrankieOne (performance based on metrics, performance relative to competitors)
+---
+## RECOMMENDATIONS
 
+* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
+* Why do you think that offering this product or service would benefit the company?
+
+* What technologies would this additional product or service utilize?
+---
 SOURCES CITED
 - [Company Funding Information] (https://www.crunchbase.com/organization/FrankieOne/company_financials)
 - [FrankieOne Webpage] (https://www.frankieone.com/about-frankieone)
