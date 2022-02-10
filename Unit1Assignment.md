@@ -1,39 +1,59 @@
-#UNIT 1 ASSIGNMENT
+# Unit 1 Assignment - FrankieOne Case Study
 
-##Overview and Origin
+## Overview and Origin
+---
+COMPANY NAME, FOUNDING AND CORE IDEA
+- Frankie One is an Australian Fintech founded in 2017 by Simon Costello and Aaron Chipper. 
+- The founders of the company were originally looking to build the next great neobank but found customer onboarding processes were disjointed and clunky. They also found that avoiding penalties for non-compliance of KYC/AML rules came at the expense of customer experience. They decided to make onboarding easier and smoother for customers.
 
-* Name of company - FRANKIE ONE
+COMPANY FUNDING
+- Frankie was funded via seed funding and series A funding via venture capitalist investors. To date they received $23M AUD in funding. 
+---
 
-* INCORPORATION - 19 DECEMBER 2017
+## Business Activities
+---
+FINANCIAL PROBLEM TO BE SOLVED 
+- Customer onboarding compliance and fraud monitoring for financial institutions and fintechs
 
-* COMPANY FOUNDERS - SIMON COSTELLO & AARON CHIPPER
+INTENDED CUSTOMER AND MARKET SIZE
+- Intended customers include Banks, Fintechs and other companies required to complete KYC verification and fraud prevention. 
+- Market size of the Finance Industry in Australia is $183BN
 
-* IDEA FOR THE COMPANY - 
-THE FOUNDERS WERE ORIGINALLY LOOKING TO BUILD THE NEXT GREAT NEOBANK BUT FOUND CUSTOMER ONBOARDING PROCESSES WERE DISJOINTED AND CLUNKY 
-WITH THE BALANCE BETWEEN AVOIING PENALTIES FOR NON-COMPLIANCE OFTEN COMING AT THE EXPENSE OF CUSTOMER EXPERIENCE. 
-THEY DECIDED TO MAKE THIS EASIER AND SMOOTHER FOR CUSTOMERS.
+COMPANY SOLUTION
+- Allow ease of managing regulatory compliance through a single API and dashboard which connects to hunderds of global identity and fraud monitoring providers.
+- Also allow for easier and more seamless digital onboarding and electronic verification experiences through biometric matching.
 
-* COMPANY FUNDING - 
-FUNDED VIA SEED FUNDING/SERIES A FUNDING WITH VENTURE CAPITALIST INVESTORS
-TOTAL FUNDING RECEIVED TO DATE IS $23M AUD
+TECHNOLOGIES CURRENTLY USED
+- Technologies currently used include:
+    - Biometric scanning
+    - cloud computing storage.
+---
+## LANDSCAPE
+---
+FINANCIAL INDUSTRY
+- FrankieOne would be considered a Regtech company as they support finance companies in compliance with their financial crime obligations
 
-##Business Activities
+MAJOR TRENDS AND INNOVATIONS IN REGTECH
+- In the last 5-10 years the following major trends/innovations have occurred in electronic identity verification (EIDV):
+    - X
 
-* Financial Problem to be solved - Customer onboarding compliance and fraud monitoring for financial institutions and fintechs
+MAJOR COMPETITORS
+- FrankieOne's major competitors are:
+    - X
+---
+## RESULTS
+---
+BUSINESS IMPACT 
+- FrankieOne has had the following impacts to date:
+    - X
 
-* Intended Customer and market size- 
-Intended customers include Banks, Fintechs and other companies required to complete KYC verification and fraud prevention
-Market size of the Finance Industry in Australia is $183BN
-
-* Company Solution - 
-Allow ease of managing regulatory compliance through a single API and dashboard which connects to hunderds of global identity and fraud monitoring providers.
-Also allow for easier and more seamless digital onboarding and electronic verification experiences through biometric matching.
-
-* Technologies currently used -
+MEASURES OF SUCCESS
+- Companies in the EIDV space use pass rates as metrics for success.
+- FrankieOne has 
 
 
 SOURCES CITED
-https://www.crunchbase.com/organization/FrankieOne/company_financials
-https://www.frankieone.com/about-frankieone
-https://abr.business.gov.au/ABN/View?id=623506892
-https://www.ibisworld.com/au/industry/finance/1740/
+- [Company Funding Information] (https://www.crunchbase.com/organization/FrankieOne/company_financials)
+- [FrankieOne Webpage] (https://www.frankieone.com/about-frankieone)
+- [FrankieOne ACN Lookup] (https://abr.business.gov.au/ABN/View?id=623506892)
+- [Australian Finance Industry Market Cap] (https://www.ibisworld.com/au/industry/finance/1740/)
