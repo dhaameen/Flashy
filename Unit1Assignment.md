@@ -57,19 +57,22 @@ MAJOR COMPETITORS
 ---
 BUSINESS IMPACT 
 - FrankieOne has had the following impacts to date:
-    - X
+    - It has connected to 350+ different vendors and data sources from ID verification, eKYC, AML, fraud monitoring and credit tools to enable data focused decisions and provide a single source of truth via it's single API.
+    - It has picked up 80 customers in the last 80 months working with major companies like Afterpay, Westpac and Zipmex. 
+    - It currently has investor interest from major financial figures such as Greycroft, Reinventure, Tidal ventures, Apex capital and Revolut.
 
 MEASURES OF SUCCESS
 - Companies in the EIDV space use pass rates as metrics for success.
-- FrankieOne (performance based on metrics, performance relative to competitors)
+- Unfortunately, due to the nature of the service provided EV pass rates were not available to determine FrankieOne's effectiveness nor it's comparison relative to competitors. Having said that, the growth of FrankieOne relative to other fintechs in the space and it's major partnerships with Blockchain Australia as well as clientele such as Afterpay suggest Frankie's success rates are high.
 ---
 ## RECOMMENDATIONS
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+RECOMMENDATIONS ON FURTHER PRODUCTS/SERVICES TO OFFER
+- To complement FrankieOnes single API dashboard that allows for greater understaning of the onboarding/fraud environment being worked within, I would recommend the consideration of incoporating biometrics and liveliness checks into the program to allow for not just dashboard management of the companies onboarding processes but to work with the many databases Frankie is plugged into to provide realtime ID verification matching faces to documents to increase electronic verification matching rates.
+- The benefits to offering this product would allow Frankie to leverage its current strenghts (vast database networks and multiple software compatibilities to enable a 'one stop shop' for onboarding and reduce the need for third party softwares outside of FrankieOne)
+- This additional funcitonality would require further development of the AI an Machine Learning software to better understand the various facial features, plus an increased reliance on big data to conduct checks against databases to confirm matches.
 
-* Why do you think that offering this product or service would benefit the company?
 
-* What technologies would this additional product or service utilize?
 ---
 SOURCES CITED
 - [Company Funding Information] (https://www.crunchbase.com/organization/FrankieOne/company_financials)
@@ -77,4 +80,5 @@ SOURCES CITED
 - [FrankieOne ACN Lookup] (https://abr.business.gov.au/ABN/View?id=623506892)
 - [Australian Finance Industry Market Cap] (https://www.ibisworld.com/au/industry/finance/1740/)
 - [GreenID] (https://gbg-greenid.com/)
-- Muinmos [https://member.fintech.global/2021/12/08/how-muinmos-became-a-key-global-player-in-financial-services-client-onboarding/]
+- [Muinmos] (https://member.fintech.global/2021/12/08/how-muinmos-became-a-key-global-player-in-financial-services-client-onboarding/)
+- [FrankieOne Impact] {https://techcrunch.com/2021/10/11/frankieone-nabs-16m-to-provide-fintechs-with-id-and-fraud-management-as-a-service/}
